@@ -1,0 +1,4 @@
+# Include any directories or files that should not be included in the Container
+README.md
+.env
+log/
